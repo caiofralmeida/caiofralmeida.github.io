@@ -1,3 +1,22 @@
+# Create a new orphand branch (no commit history) named gh-pages
+git checkout --orphan gh-pages
+
+# Unstage all files
+git rm --cached $(git ls-files)
+
+# Grab one file from the master branch so we can make a commit
+git checkout master README.md
+
+# Add and commit that file
+git add .
+git commit -m "INIT: initial commit on gh-pages branch"
+
+# Push to remote gh-pages branch
+git push origin gh-pages
+
+# Return to master branch
+git checkout master
+
 # Remove the public folder to make room for the gh-pages subtree
 rm -rf public
 

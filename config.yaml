@@ -1,8 +1,0 @@
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-indexes:
-    category: "categories"
-baseurl: "http://caioalmeida.eti.br/"
-title: "Caio Almeida #dev"
-canonifyurls: false

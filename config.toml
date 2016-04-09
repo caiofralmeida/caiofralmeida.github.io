@@ -1,3 +1,8 @@
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
 baseurl = "xxx.com"
 languageCode = "pt-br"
 title = "Caio Almeida"
