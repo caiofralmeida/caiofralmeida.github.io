@@ -1,12 +1,14 @@
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-indexes:
-  category: "categories"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
 baseurl = "xxx.com"
 languageCode = "pt-br"
 title = "Caio Almeida"
 theme = "beautifulhugo"
+
+[indexes]
+   category = "categories"
 
 [Params]
   logo = "img/avatar-icon.png"
