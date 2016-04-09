@@ -5,7 +5,7 @@ rm -rf public
 git subtree add --prefix=public https://github.com/caiofralmeida/caiofralmeida.github.io.git gh-pages --squash
 
 # Pull down the file we just committed. This helps avoid merge conflicts
-git subtree pull --prefix=public https://github.com/caiofralmeida/caiofralmeida.github.io.git gh-pages
+#git subtree pull --prefix=public https://github.com/caiofralmeida/caiofralmeida.github.io.git gh-pages
 
 hugo -t beautifulhugo
 
