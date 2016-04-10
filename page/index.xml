@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Caio Almeida #dev</title>
-    <link>/</link>
-    <description>Recent content on Caio Almeida #dev</description>
+    <title>Pages on Caio Almeida #dev</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Caio Almeida #dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>caioamd@hotmail.com (Caio Almeida)</managingEditor>
     <webMaster>caioamd@hotmail.com (Caio Almeida)</webMaster>
-    <lastBuildDate>Thu, 07 Apr 2016 22:37:47 -0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>welcome</title>
-      <link>/post/welcome/</link>
-      <pubDate>Thu, 07 Apr 2016 22:37:47 -0300</pubDate>
-      <author>caioamd@hotmail.com (Caio Almeida)</author>
-      <guid>/post/welcome/</guid>
-      <description>&lt;p&gt;sdfsdfsdfsdfasdfasdf&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
