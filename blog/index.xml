@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Caio Almeida #dev</title>
-    <link>/page/</link>
-    <description>Recent content in Pages on Caio Almeida #dev</description>
+    <title>Blogs on Caio Almeida #dev</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Caio Almeida #dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>caioamd@hotmail.com (Caio Almeida)</managingEditor>
     <webMaster>caioamd@hotmail.com (Caio Almeida)</webMaster>
-    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>/page/blog/</link>
+      <link>/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>caioamd@hotmail.com (Caio Almeida)</author>
-      <guid>/page/blog/</guid>
+      <guid>/blog/</guid>
       <description></description>
     </item>
     

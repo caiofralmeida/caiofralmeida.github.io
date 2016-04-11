@@ -13,7 +13,15 @@
   </url>
   
   <url>
-    <loc>/page/about/</loc>
+    <loc>/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/blog/</loc>
   </url>
   
 </urlset>
