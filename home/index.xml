@@ -23,7 +23,7 @@
 &lt;h4 id=&#34;foco-atual:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Foco atual&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Esse é um paragrafo, muito bom!&lt;/li&gt;
+&lt;li&gt;Estudos do design de Software Orientado a Objetos, com o objetivo de construir aplicações mais robustas e flexíveis, utilizando design patterns, SOLID, GRASP, TTD, BDD e técnicas de código limpo/refatoração.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -31,9 +31,13 @@
 &lt;h4 id=&#34;skills:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Skills&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;PHP&lt;/li&gt;
-&lt;li&gt;Phalcon Framework&lt;/li&gt;
-&lt;li&gt;Vish&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Clean Coder&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object-oriented_design&#34;&gt;&lt;em&gt;Software Object-oriented designer&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Agile Tester&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;PHP (principal linguagem)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zend Framework 2&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Phalcon Framework&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Banco de dados / &lt;em&gt;NoSql&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
