@@ -37,6 +37,15 @@
         autoRegister: true, /* Set to true to automatically prompt visitors */
         notifyButton: {
             enable: false /* Set to false to hide */
+        },
+        promptOptions: {
+            /* These prompt options values configure both the HTTP prompt and the HTTP popup. */
+            /* actionMessage limited to 90 characters */
+            actionMessage: "We'd like to show you notifications for the latest news and updates.",
+            /* acceptButtonText limited to 15 characters */
+            acceptButtonText: "ALLOW",
+            /* cancelButtonText limited to 15 characters */
+            cancelButtonText: "NO THANKS"
         }
       }]);
     </script>
